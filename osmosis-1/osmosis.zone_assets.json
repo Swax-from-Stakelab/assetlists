@@ -2467,6 +2467,12 @@
       "osmosis_verified": false
     },
     {
+      "chain_name": "chihuahua",
+      "base_denom": "factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/spitz",
+      "path": "transfer/channel-113/factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/spitz",
+      "osmosis_verified": false
+    },
+    {
       "chain_name": "stargaze",
       "base_denom": "factory/stars1xx5976njvxpl9n4v8huvff6cudhx7yuu8e7rt4/usneaky",
       "path": "transfer/channel-75/factory/stars1xx5976njvxpl9n4v8huvff6cudhx7yuu8e7rt4/usneaky",

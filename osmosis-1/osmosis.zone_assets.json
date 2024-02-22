@@ -2468,8 +2468,8 @@
     },
     {
       "chain_name": "chihuahua",
-      "base_denom": "factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/spitz",
-      "path": "transfer/channel-113/factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/spitz",
+      "base_denom": "factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/Spitz",
+      "path": "transfer/channel-113/factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/Spitz",
       "osmosis_verified": false
     },
     {
